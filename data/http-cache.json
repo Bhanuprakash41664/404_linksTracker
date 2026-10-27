@@ -1,0 +1,1730 @@
+{
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/fact-sheet-changi-airport-terminal-5.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/fact-sheet-changi-airport-terminal-5.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/en/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/en/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/zh/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/zh/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/zh/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/cn/zh/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/id/id/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/id/id/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/zh/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/cn/zh/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/en/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/cn/en/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/en/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/cn/en/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/id/en/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/id/en/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/au/en/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/au/en/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/id/en/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/id/en/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/au/en/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/au/en/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/in/en/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/in/en/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/in/en/fly/flight-information/departures/flight-detail.html": {
+    "url": "https://www.changiairport.com/in/en/fly/flight-information/departures/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/id/id/fly/flight-information/arrivals/flight-detail.html": {
+    "url": "https://www.changiairport.com/id/id/fly/flight-information/arrivals/flight-detail.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/lighting-up-midautumn.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/lighting-up-midautumn.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/flight-info/flight-status/passenger-arrivals.html": {
+    "url": "https://www.changiairport.com/flight-info/flight-status/passenger-arrivals.html",
+    "status": 301,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/fact-sheet-changi-airport.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/fact-sheet-changi-airport.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/designing-the-journeys-of.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/designing-the-journeys-of.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/from-changi-youth-ambassa.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/from-changi-youth-ambassa.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/prog/changi-privileges/in2311.html": {
+    "url": "https://www.changiairport.com/en/prog/changi-privileges/in2311.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/changi/en/index.html": {
+    "url": "https://www.changiairport.com/changi/en/index.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/2025-operating-indicators.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/2025-operating-indicators.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/award-of-terminal-5-contracts-2025.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/award-of-terminal-5-contracts-2025.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/changi/en/flight_information/arrival_departure.html": {
+    "url": "https://www.changiairport.com/changi/en/flight_information/arrival_departure.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/flight-info/flight-status/passenger-departures.html": {
+    "url": "https://www.changiairport.com/flight-info/flight-status/passenger-departures.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-to-operate-using-runway-2-and-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-to-operate-using-runway-2-and-.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/cag-sats-autonomous-wheelchairs.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/cag-sats-autonomous-wheelchairs.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/what-goes-on-behind-the-w.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/what-goes-on-behind-the-w.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/autonomous-tractors.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/autonomous-tractors.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/buddy-bear-stamp-hunt.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/buddy-bear-stamp-hunt.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/blackpink-world-tour-deadline-in-singapore.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/blackpink-world-tour-deadline-in-singapore.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/award-of-t5-intra-terminal-tunnel-contract.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/award-of-t5-intra-terminal-tunnel-contract.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/jewel-changi-airport-fact-sheet.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/jewel-changi-airport-fact-sheet.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/aircraft-360-turnaround.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/aircraft-360-turnaround.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/2xgst.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/2xgst.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-launches-satellite-gate.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-launches-satellite-gate.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/2024-year-in-review.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/2024-year-in-review.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/t5-in-the-making.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/t5-in-the-making.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/egyptair-cairo-singapore-sydney-service.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/egyptair-cairo-singapore-sydney-service.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-group-new-office-building-t3.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-group-new-office-building-t3.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/a-peek-into-the-hidden-wo.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/a-peek-into-the-hidden-wo.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/cag/airport-guide/facilities-services/ground-transport-concierge/airportsh.html": {
+    "url": "https://www.changiairport.com/content/dam/cag/airport-guide/facilities-services/ground-transport-concierge/airportsh.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/the-science-of-signs-at-c.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/the-science-of-signs-at-c.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/wifichangi-serving-fast-a.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/wifichangi-serving-fast-a.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-airport-terminal-5-breaks-ground.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-airport-terminal-5-breaks-ground.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-s-q2-2026-operating-indicators.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-s-q2-2026-operating-indicators.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-airport-harnesses-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-airport-harnesses-.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-airport-group-results-for-the-year-end.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-airport-group-results-for-the-year-end.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-airport-group-push.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-airport-group-push.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/t5-in-the-making-launch.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/t5-in-the-making-launch.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/preserving-a-piece-of-cha.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/preserving-a-piece-of-cha.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/peanuts-photo-spots.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/peanuts-photo-spots.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-airport-to-invest-3-billion-over-next-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-airport-to-invest-3-billion-over-next-.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-art-collection.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-art-collection.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/robotic-middleware-framew.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/robotic-middleware-framew.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/work-starts-at-changi-airport-on-the-largest-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/work-starts-at-changi-airport-on-the-largest-.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-airports-internati.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-airports-internati.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/fit-and-fun-zone.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/fit-and-fun-zone.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/calm-room.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/calm-room.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-group-financial-result.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airport-group-financial-result.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/cacorp/en.html": {
+    "url": "https://www.changiairport.com/content/cacorp/en.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/dining-directory/dine-detail.hub---spoke-cafe.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/dining-directory/dine-detail.hub---spoke-cafe.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/happenings/events-directory/changi-first/dewars-speakeasy-bar.html": {
+    "url": "https://www.changiairport.com/zh/happenings/events-directory/changi-first/dewars-speakeasy-bar.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/traffic-statistics.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/traffic-statistics.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/changi-festive-village-2025.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/changi-festive-village-2025.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-airport-and-jewel-make-waves-with-dazz.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-airport-and-jewel-make-waves-with-dazz.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/changiairport/sg/evergreen/changi-terminals/special-assistance/ter.html": {
+    "url": "https://www.changiairport.com/content/dam/changiairport/sg/evergreen/changi-terminals/special-assistance/ter.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/the-making-of-the-wonderf.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/the-making-of-the-wonderf.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/celebrate-jewel-blooms-with-lego-botanicals.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/celebrate-jewel-blooms-with-lego-botanicals.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-transit-experience.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-transit-experience.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/airport-pass-in-changi-tr.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/airport-pass-in-changi-tr.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/skytrax-2025.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/skytrax-2025.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/the-details-in-the-design.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/the-details-in-the-design.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/disabled-aircraft-recover.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/disabled-aircraft-recover.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/the-jewel-effect-early-ch.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/the-jewel-effect-early-ch.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/prog/changi-privileges/gr2408.html": {
+    "url": "https://www.changiairport.com/en/prog/changi-privileges/gr2408.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/jewel-reports-record-high-footfall-and-sales.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/jewel-reports-record-high-footfall-and-sales.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/fact-sheet-changi-airport.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/fact-sheet-changi-airport.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/lion-group-positions-for-growth-at-changi-air.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/lion-group-positions-for-growth-at-changi-air.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/future-ready-digital-tran.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/future-ready-digital-tran.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/changiairport/common/pdf/publications/2024-25/cag-ar-2024-25-beyond-bounda.html": {
+    "url": "https://www.changiairport.com/content/dam/changiairport/common/pdf/publications/2024-25/cag-ar-2024-25-beyond-bounda.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/dhl-singapore-coldchain-hub-changi-airport.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/dhl-singapore-coldchain-hub-changi-airport.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/prog/changi-privileges/kr-korean.html": {
+    "url": "https://www.changiairport.com/en/prog/changi-privileges/kr-korean.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/q2-operating-indicators.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/q2-operating-indicators.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/snoopy-and-siblings-sports-experience-june-sc.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/snoopy-and-siblings-sports-experience-june-sc.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/lunar-new-year-changi-airport-and-jewel.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/lunar-new-year-changi-airport-and-jewel.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/ai-literacy-at-cag.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/ai-literacy-at-cag.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/changi/en/flight_information/arrival_departure/index.html": {
+    "url": "https://www.changiairport.com/changi/en/flight_information/arrival_departure/index.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/changi-airport-gears-up-t.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/changi-airport-gears-up-t.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/volunteering-one-changi.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/volunteering-one-changi.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/best-airport-washrooms.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/best-airport-washrooms.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/changi-shopping-festival.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/changi-shopping-festival.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-1061-beechenghiang%25.html": {
+    "url": "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-1061-beechenghiang%25.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/airport-guide/covid-19/transiting-through-airport.html": {
+    "url": "https://www.changiairport.com/en/airport-guide/covid-19/transiting-through-airport.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/calm-room.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/calm-room.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airline-awards.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/changi-airline-awards.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/jaime-bakehouse.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/jaime-bakehouse.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-millionaire.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-millionaire.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/inside-changi-airport-dri.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/inside-changi-airport-dri.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/new-private-terminal.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/new-private-terminal.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/keeping-changi-airport-fr.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/keeping-changi-airport-fr.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/2025-changi-airline-awards.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/2025-changi-airline-awards.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/changi-spring-festival.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/changi-spring-festival.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-app-sets-a-world-first-in-airport-inno.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/changi-app-sets-a-world-first-in-airport-inno.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/sustainable-airport-pavem.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/sustainable-airport-pavem.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/jewelfansfavouritesawards.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/jewelfansfavouritesawards.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/sg60-concert.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/sg60-concert.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/decoding-airport-codes-ho.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/decoding-airport-codes-ho.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/augmented-reality-ar-tool.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/augmented-reality-ar-tool.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/employee-well-being-a-key.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/employee-well-being-a-key.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/bin/changiairport/ciam/login.data.html": {
+    "url": "https://www.changiairport.com/bin/changiairport/ciam/login.data.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/five-things-you-did-not-k.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/five-things-you-did-not-k.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-airport-group-opens-refurbished-air-lo.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-airport-group-opens-refurbished-air-lo.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-service-ambassador.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-service-ambassador.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/how-jewel-serves-as-a-pla.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/how-jewel-serves-as-a-pla.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/business-expertise/airpor.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/business-expertise/airpor.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/assistant-duty-terminal-m.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/assistant-duty-terminal-m.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/changiairport/sg/evergreen/digital-products/rewards/monarch-member.html": {
+    "url": "https://www.changiairport.com/content/dam/changiairport/sg/evergreen/digital-products/rewards/monarch-member.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/bookstores-continue-to-fl.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/bookstores-continue-to-fl.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/flight..html": {
+    "url": "https://www.changiairport.com/en/flight..html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/zh/dine-and-shop/shop-directory/shop-detail.shop-1695809073777%25.html": {
+    "url": "https://www.changiairport.com/cn/zh/dine-and-shop/shop-directory/shop-detail.shop-1695809073777%25.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2021/powering-innovations-at-c.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2021/powering-innovations-at-c.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/enticing-travellers-to-ex.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/enticing-travellers-to-ex.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/q3-operating-indicators.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/q3-operating-indicators.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/heroines-behind-the-voice.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/heroines-behind-the-voice.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-unveils-new-innova.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-unveils-new-innova.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/changi-festive-village.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/changi-festive-village.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/skytrains-where-are-they-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/skytrains-where-are-they-.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-retail-exclusives.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-retail-exclusives.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/at-changi/terminal-3.html": {
+    "url": "https://www.changiairport.com/en/at-changi/terminal-3.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-1591-chow_taifook-1590653628319%252.html": {
+    "url": "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-1591-chow_taifook-1590653628319%252.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/sun-group-and-changi-airports-international-s.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/sun-group-and-changi-airports-international-s.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/chocolates-travel-experie.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/chocolates-travel-experie.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/how-changi-works-with-air.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/how-changi-works-with-air.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/sg-60-celebrations.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/sg-60-celebrations.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/changi-first/dewars-speakeasy-bar.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/changi-first/dewars-speakeasy-bar.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/q1-2025-operating-indicators.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/q1-2025-operating-indicators.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/learning-journeys.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/learning-journeys.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/q1-operating-indicators.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/q1-operating-indicators.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/zh/dine-and-shop/shop-directory/shop-detail.shop-865-7-eleven-1590653546615%252.html": {
+    "url": "https://www.changiairport.com/cn/zh/dine-and-shop/shop-directory/shop-detail.shop-865-7-eleven-1590653546615%252.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.cosmetics---perfumes-by-shilla.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.cosmetics---perfumes-by-shilla.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.twg-tea-boutique.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.twg-tea-boutique.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/cag/airport-guide/airport-guide-download/lowres/marjun2019/cag%20s%26d%20t.html": {
+    "url": "https://www.changiairport.com/content/dam/cag/airport-guide/airport-guide-download/lowres/marjun2019/cag%20s%26d%20t.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/worldofwinesandspirits.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/worldofwinesandspirits.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/chill-out-with-live-music.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/chill-out-with-live-music.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/changiairport/sg/corporate/evergreen/resources/forms-and-manuals/documents.html": {
+    "url": "https://www.changiairport.com/content/dam/changiairport/sg/corporate/evergreen/resources/forms-and-manuals/documents.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/renewable-diesel.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/renewable-diesel.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-experience-ambassa.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-experience-ambassa.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/creating-an-inclusive-tra.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/creating-an-inclusive-tra.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/five-extreme-spots-in-cha.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/five-extreme-spots-in-cha.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/at-changi/leisure-indulgences/free-singapore-tour.html": {
+    "url": "https://www.changiairport.com/at-changi/leisure-indulgences/free-singapore-tour.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/engineering-and-expansion-works-at-t2.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/engineering-and-expansion-works-at-t2.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/air-travel-during-wet-sea.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/air-travel-during-wet-sea.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/supporting-icas-automated.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/supporting-icas-automated.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/https/www.changiairport.com.html": {
+    "url": "https://www.changiairport.com/https/www.changiairport.com.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.aerotel.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.aerotel.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/flight-info/flight-status.html": {
+    "url": "https://www.changiairport.com/flight-info/flight-status.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/t5-exhibition-setup.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/t5-exhibition-setup.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/t5-in-the-making-registration-open.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/t5-in-the-making-registration-open.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/mou-with-sf-group.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/mou-with-sf-group.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/fly/transit-guide/free-singapore-tour.html": {
+    "url": "https://www.changiairport.com/en/fly/transit-guide/free-singapore-tour.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/airport-sustainability.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/airport-sustainability.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/the-changi-airport-story.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/the-changi-airport-story.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/dine-and-shop/dining-directory.365-juices-bar.html": {
+    "url": "https://www.changiairport.com/zh/dine-and-shop/dining-directory.365-juices-bar.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/how-changi-keeps-hearts-a.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/how-changi-keeps-hearts-a.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/delivering-exceptional-cu.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/delivering-exceptional-cu.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/how-changi-airport-battle.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/how-changi-airport-battle.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/happenings/events-directory/buddy-bear-stamp-hunt.html": {
+    "url": "https://www.changiairport.com/zh/happenings/events-directory/buddy-bear-stamp-hunt.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/flight-info.html": {
+    "url": "https://www.changiairport.com/flight-info.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-fragrant-flora.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-fragrant-flora.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/from-blueprint-to-boardin.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/from-blueprint-to-boardin.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/prog/terms/changi-airport-community-charity-golf-2026.html": {
+    "url": "https://www.changiairport.com/en/prog/terms/changi-airport-community-charity-golf-2026.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/lny-festive-displays.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/lny-festive-displays.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/workplace-transformation.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/workplace-transformation.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/refreshed-changi-airport-terminal-2-fully-reo.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/refreshed-changi-airport-terminal-2-fully-reo.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/bts-bamboo-grove.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/bts-bamboo-grove.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/how-changi-gets-aircraft-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/how-changi-gets-aircraft-.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changis-passengers-benefi.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changis-passengers-benefi.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/dine-and-shop/dining-directory/dine-detail.shop-1366-harry_sbaranddining-1590654036.html": {
+    "url": "https://www.changiairport.com/zh/dine-and-shop/dining-directory/dine-detail.shop-1366-harry_sbaranddining-1590654036.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/miffy-beach-birthday-party.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/miffy-beach-birthday-party.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/flexible-hotel-stays-resh.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/flexible-hotel-stays-resh.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/en/dine-and-shop/shop-directory/shop-detail.shop-1734338336129.html": {
+    "url": "https://www.changiairport.com/cn/en/dine-and-shop/shop-directory/shop-detail.shop-1734338336129.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/content/cag-corp/en/media-centre/changijourneys/the-airport-never-sleeps/operating-24-.html": {
+    "url": "https://www.changiairport.com/content/cag-corp/en/media-centre/changijourneys/the-airport-never-sleeps/operating-24-.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/cag-invites-swifties-to-bejeweled-the-biggest.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/cag-invites-swifties-to-bejeweled-the-biggest.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/airport-experience/attractions-and-services/baggage-storage.html": {
+    "url": "https://www.changiairport.com/en/airport-experience/attractions-and-services/baggage-storage.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/makemytrip.html": {
+    "url": "https://www.changiairport.com/en/makemytrip.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/flight/flight-status.html": {
+    "url": "https://www.changiairport.com/en/flight/flight-status.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/changi/en/flight_information.html": {
+    "url": "https://www.changiairport.com/changi/en/flight_information.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/mangrove-aquarium.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/mangrove-aquarium.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/id/en/dine-and-shop/dining-directory/dine-detail.matchaya.html": {
+    "url": "https://www.changiairport.com/id/en/dine-and-shop/dining-directory/dine-detail.matchaya.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-robot-crawler.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/changi-robot-crawler.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-prototypes-smart-t.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/changi-prototypes-smart-t.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/wow-experience-changi.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/wow-experience-changi.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/disney-cruise-line-meet-special-friends.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/disney-cruise-line-meet-special-friends.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/airside-professional-team.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/airside-professional-team.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/delphine-t5-specialised-s.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/delphine-t5-specialised-s.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/in/en/happenings/promotions/shopping-privileges.html": {
+    "url": "https://www.changiairport.com/in/en/happenings/promotions/shopping-privileges.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/disney-cruise-line-purchase-with-purchase.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/disney-cruise-line-purchase-with-purchase.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-1703755162289%25252.html": {
+    "url": "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-1703755162289%25252.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.travelex-moneychanger.html": {
+    "url": "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.travelex-moneychanger.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/changi-airport-to-reopen-runway-2-from-1-dece.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/changi-airport-to-reopen-runway-2-from-1-dece.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/undefined.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/undefined.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/aes-repurposes-retired-fi.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/aes-repurposes-retired-fi.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/experience/tours/free-singapore-tour/changi-precinct-tour.html": {
+    "url": "https://www.changiairport.com/en/experience/tours/free-singapore-tour/changi-precinct-tour.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/wildlife-mgt-changi.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/wildlife-mgt-changi.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/dtm-profile-feature.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/dtm-profile-feature.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/passenger-guide/transit/changi-transit-programme.html": {
+    "url": "https://www.changiairport.com/en/passenger-guide/transit/changi-transit-programme.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/cn/en/dine-and-shop/dining-directory/dine-detail.shop-1765262701448.html": {
+    "url": "https://www.changiairport.com/cn/en/dine-and-shop/dining-directory/dine-detail.shop-1765262701448.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/dining-directory/dine-detail.shop-1366-harry_sbaranddining-1590654036.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/dining-directory/dine-detail.shop-1366-harry_sbaranddining-1590654036.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/leveraging-technology-to-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/leveraging-technology-to-.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/2026-annual-airport-celebration.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/2026-annual-airport-celebration.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-festive-village.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-festive-village.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/at-changi/facilities-and-services/baggage-services.html": {
+    "url": "https://www.changiairport.com/at-changi/facilities-and-services/baggage-services.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/airlines-add-roughly-600-flights-for-the-luna.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/airlines-add-roughly-600-flights-for-the-luna.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/new-aes-chief.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/new-aes-chief.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/airport-experience/attractions-and-services/transit-hotels.html": {
+    "url": "https://www.changiairport.com/en/airport-experience/attractions-and-services/transit-hotels.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/passenger-guide/guidelines-for-liquids-aerosols-and-gels-in-hand-carried-luggages.html": {
+    "url": "https://www.changiairport.com/passenger-guide/guidelines-for-liquids-aerosols-and-gels-in-hand-carried-luggages.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/how-a-firefly-plane-turns.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/how-a-firefly-plane-turns.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/changifestivevillage/activities/candy-carnival/candy-snow-house.html": {
+    "url": "https://www.changiairport.com/en/changifestivevillage/activities/candy-carnival/candy-snow-house.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-reduces-water-elec.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2026/changi-reduces-water-elec.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/changifestivevillage/activities/candy-carnival.html": {
+    "url": "https://www.changiairport.com/en/changifestivevillage/activities/candy-carnival.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/shop-more-when-you-fly.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/shop-more-when-you-fly.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/cag/en.html": {
+    "url": "https://www.changiairport.com/content/cag/en.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/flight-info/airlines/airlines-serving-changi.html": {
+    "url": "https://www.changiairport.com/flight-info/airlines/airlines-serving-changi.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/happenings/events-directory/t5-in-the-making.html": {
+    "url": "https://www.changiairport.com/zh/happenings/events-directory/t5-in-the-making.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/how-changi-takes-care-of-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2023/how-changi-takes-care-of-.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2019/changi-airport-to-operate-using-runway-1-and-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2019/changi-airport-to-operate-using-runway-1-and-.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/staying-prepared-for-an-a.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/staying-prepared-for-an-a.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/changiairport/sg/evergreen/digital-products/rewards/changi-rewards.html": {
+    "url": "https://www.changiairport.com/content/dam/changiairport/sg/evergreen/digital-products/rewards/changi-rewards.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/passenger-guide/airport-services/free-singapore-tour.html": {
+    "url": "https://www.changiairport.com/en/passenger-guide/airport-services/free-singapore-tour.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/happenings/events-directory/snoopyfurniture.html": {
+    "url": "https://www.changiairport.com/zh/happenings/events-directory/snoopyfurniture.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/undefined.html": {
+    "url": "https://www.changiairport.com/undefined.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/pop-up-stores.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/pop-up-stores.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/flight/airlines/list-of-airlines-by-terminals.html": {
+    "url": "https://www.changiairport.com/en/flight/airlines/list-of-airlines-by-terminals.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/partnering-us/contact-information.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/partnering-us/contact-information.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/sakura-in-japan-korea.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/sakura-in-japan-korea.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/sg60-changi-airport-charity-walk.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2025/sg60-changi-airport-charity-walk.html",
+    "status": 200,
+    "method": "HEAD",
+    "error": null
+  },
+  "https://www.changiairport.com/c/document_library/get_file.html": {
+    "url": "https://www.changiairport.com/c/document_library/get_file.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/help/changi-pay/outlets.html": {
+    "url": "https://www.changiairport.com/en/help/changi-pay/outlets.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/cny2026.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/cny2026.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/cag/en/airport-guide/departing/checking-in.html": {
+    "url": "https://www.changiairport.com/content/cag/en/airport-guide/departing/checking-in.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/free-singapore-tour-new-a.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/free-singapore-tour-new-a.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.bengawansolo.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/shop-directory/shop-detail.bengawansolo.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/careers/careers-with-changi-airport-group.html": {
+    "url": "https://www.changiairport.com/en/careers/careers-with-changi-airport-group.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/how-driving-in-changis-ai.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/how-driving-in-changis-ai.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/chaoslab.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/chaoslab.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2022/fees-and-levies-at-changi-airport-to-be-revis.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2022/fees-and-levies-at-changi-airport-to-be-revis.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/passenger-guide/departing.html": {
+    "url": "https://www.changiairport.com/en/passenger-guide/departing.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/business-expertise/system.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/business-expertise/system.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/shop.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/shop.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/jca/zh/feedback.html": {
+    "url": "https://www.changiairport.com/content/jca/zh/feedback.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-airport-operating-indicators-for-q3-20.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2024/changi-airport-operating-indicators-for-q3-20.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/at-changi/facilities-and-services.html": {
+    "url": "https://www.changiairport.com/en/at-changi/facilities-and-services.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2020/ca-opens-new-connector-linking-to-east-coast-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2020/ca-opens-new-connector-linking-to-east-coast-.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/shall-we-just-go-campaign.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/shall-we-just-go-campaign.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2022/fact-sheet--changi-airport-t5.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2022/fact-sheet--changi-airport-t5.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/a-gem-of-a-job-as-jewels-.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2022/a-gem-of-a-job-as-jewels-.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/airport-experience/attractions-and-services/free-singapore-tour/free-singapore-tour.html": {
+    "url": "https://www.changiairport.com/en/airport-experience/attractions-and-services/free-singapore-tour/free-singapore-tour.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/airport-experience/attractions-and-services.html": {
+    "url": "https://www.changiairport.com/en/airport-experience/attractions-and-services.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2021/google-drains-changi-airp.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2021/google-drains-changi-airp.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/cag-corp/en/media-centre/changijourneys/faces-of-changi/a-day-in-the-life-of-a.html": {
+    "url": "https://www.changiairport.com/content/cag-corp/en/media-centre/changijourneys/faces-of-changi/a-day-in-the-life-of-a.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/uzbekistan-airports-and-changi-airports-inter.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2023/uzbekistan-airports-and-changi-airports-inter.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/changi/index.jsp.html": {
+    "url": "https://www.changiairport.com/changi/index.jsp.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/cag/airport-guide/facilities-services/movie-theatre/t3-schedule.jpg.html": {
+    "url": "https://www.changiairport.com/content/dam/cag/airport-guide/facilities-services/movie-theatre/t3-schedule.jpg.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/events-directory/unleash-the-holidays-carnival.html": {
+    "url": "https://www.changiairport.com/en/happenings/events-directory/unleash-the-holidays-carnival.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-602-seveneleven%252.html": {
+    "url": "https://www.changiairport.com/zh/dine-and-shop/shop-directory/shop-detail.shop-602-seveneleven%252.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2021/technology-in-the-pipelin.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2021/technology-in-the-pipelin.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/in-transit/transit-hotel.html": {
+    "url": "https://www.changiairport.com/in-transit/transit-hotel.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/partnering-us/airport-concessions.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/partnering-us/airport-concessions.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/at-changi/transport-and-directions/leaving-changi-airport.html": {
+    "url": "https://www.changiairport.com/en/at-changi/transport-and-directions/leaving-changi-airport.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/accolades.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/accolades.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/peanuts-premiums.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/peanuts-premiums.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/shop-and-dine/dining/singapore-food-street.html": {
+    "url": "https://www.changiairport.com/en/shop-and-dine/dining/singapore-food-street.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/football-celebrations-at-changi-airport.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/newsroom/2026/football-celebrations-at-changi-airport.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/indigo-partner-of-the-yea.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2025/indigo-partner-of-the-yea.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/shop/extension-of-changi-dollar-vouchers.html": {
+    "url": "https://www.changiairport.com/en/shop/extension-of-changi-dollar-vouchers.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/dam/cag/maps/maps%20t1%20transit.pdf.html": {
+    "url": "https://www.changiairport.com/content/dam/cag/maps/maps%20t1%20transit.pdf.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/how-robots-are-revolution.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2020/how-robots-are-revolution.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/bellygom-premiums.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/bellygom-premiums.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/dine-and-shop/dining-directory/dine-detail.straits-food-village.html": {
+    "url": "https://www.changiairport.com/en/dine-and-shop/dining-directory/dine-detail.straits-food-village.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/happenings/promotions/fragrance.html": {
+    "url": "https://www.changiairport.com/en/happenings/promotions/fragrance.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/business-expertise.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/business-expertise.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/future-developments/chang.html": {
+    "url": "https://www.changiairport.com/content/changiairport/language-masters/en/corporate/about-us/future-developments/chang.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/airport-experience/attractions-and-services/movie-theatre.html": {
+    "url": "https://www.changiairport.com/en/airport-experience/attractions-and-services/movie-theatre.html",
+    "status": 404,
+    "method": "GET",
+    "error": null
+  },
+  "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/revealed-how-changi-deliv.html": {
+    "url": "https://www.changiairport.com/en/corporate/our-media-hub/publications/changi-journeys/2024/revealed-how-changi-deliv.html",
+    "status": 200,
+    "method": "GET",
+    "error": null
+  }
+}
